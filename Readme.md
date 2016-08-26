@@ -1,6 +1,8 @@
 Favoritos
 =========
 
+![tv favs](./img.png)
+
 Nuestros favoritos de la tv (y el cine)
 
 
